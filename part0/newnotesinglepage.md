@@ -10,6 +10,6 @@
         server-->>browser: new_note_spa json is sent 
         deactivate server
 
-        Note right of browser: new_note_spa json comtains the new note user entered
+        Note right of browser: new_note_spa json contains the new note user entered
 
 ```
